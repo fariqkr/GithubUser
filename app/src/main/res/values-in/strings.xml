@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="user_details">Detail Pengguna</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="repository">Repository</string>
+    <string name="search_user">Cari Pengguna</string>
+    <string name="change_language_settings">Ganti Pengaturan Bahasa</string>
+    <string name="user">Pengguna</string>
+    <string name="username">username</string>
+    <string name="network_not_available">Koneksi jaringan tidak tersedia</string>
+    <string name="not_found">Tidak ditemukan</string>
+    <string name="favorite">Favorite</string>
+    <string name="set_reminder">Set Reminder</string>
+</resources>
